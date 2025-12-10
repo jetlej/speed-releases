@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Speed Updates</title>
+        <item>
+            <title>Version 0.1.0</title>
+            <pubDate>Wed, 10 Dec 2025 01:01:47 +0000</pubDate>
+            <sparkle:version>0.1.0</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 0.1.0</h2>
+                <ul>
+                    <li>Updates and improvements</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v0.1.0</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v0.1.0/Speed.app.zip"
+                sparkle:version="0.1.0"
+                sparkle:shortVersionString="0.1.0"
+                length="1784920"
+                type="application/octet-stream"
+                sparkle:edSignature="5P9SGIBXazhQHgcnWxA8oEK4H4mwPNPRRp167w4Ly3myySgScs83xKcQA5wa5BCXVsjPhlULfxatCzZVbdAoBA=="
+            />
+        </item>
+    </channel>
+</rss>
