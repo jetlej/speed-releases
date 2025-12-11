@@ -3,6 +3,48 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 1.5.0</title>
+            <pubDate>Thu, 11 Dec 2025 20:15:15 +0000</pubDate>
+            <sparkle:version>1.5.0</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 1.5.0</h2>
+                <ul>
+                    <li>Updates and improvements</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v1.5.0</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v1.5.0/Speed.app.zip"
+                sparkle:version="1.5.0"
+                sparkle:shortVersionString="1.5.0"
+                length="1889031"
+                type="application/octet-stream"
+                sparkle:edSignature="GD54aOjQ0anl57lbP3gop2khd+mp6m92K8pJou9NIUCz/e4G0S2TENLjU8t+xr0dFdzq38rI9/f5tka56ZUIDw=="
+            />
+        </item>
+        <item>
+            <title>Version 1.4.0</title>
+            <pubDate>Thu, 11 Dec 2025 20:12:06 +0000</pubDate>
+            <sparkle:version>1.4.0</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 1.4.0</h2>
+                <ul>
+                    <li>Updates and improvements</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v1.4.0</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v1.4.0/Speed.app.zip"
+                sparkle:version="1.4.0"
+                sparkle:shortVersionString="1.4.0"
+                length="1889011"
+                type="application/octet-stream"
+                sparkle:edSignature="V8hCXTk1QQ6bi8yeRReCzGWEXcnlDVwOYectuojhdTpiQkv92hjRPZHiWuXbR2dqzpjU6MDJWsYTwBkw9UFfCA=="
+            />
+        </item>
+        <item>
             <title>Version 1.1.0</title>
             <pubDate>Thu, 11 Dec 2025 17:57:51 +0000</pubDate>
             <sparkle:version>1.1.0</sparkle:version>
