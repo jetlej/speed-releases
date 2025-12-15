@@ -3,6 +3,48 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 1.9.0</title>
+            <pubDate>Mon, 15 Dec 2025 03:57:24 +0000</pubDate>
+            <sparkle:version>1.9.0</sparkle:version>
+            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 1.9.0</h2>
+                <ul>
+                    <li>Updates and improvements</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v1.9.0</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v1.9.0/Speed.app.zip"
+                sparkle:version="1.9.0"
+                sparkle:shortVersionString="1.9.0"
+                length="2137608"
+                type="application/octet-stream"
+                sparkle:edSignature="sQcJ2w4VeGegcRiyDyon+kK411GKRsR7nrlEkHiZ5AiDdej8d9exJHwjmAPhxAHYsZ7pNDbCnutmZXMSsq5MCw=="
+            />
+        </item>
+        <item>
+            <title>Version 1.8.3</title>
+            <pubDate>Mon, 15 Dec 2025 03:54:33 +0000</pubDate>
+            <sparkle:version>1.8.3</sparkle:version>
+            <sparkle:shortVersionString>1.8.3</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 1.8.3</h2>
+                <ul>
+                    <li>Updates and improvements</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v1.8.3</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v1.8.3/Speed.app.zip"
+                sparkle:version="1.8.3"
+                sparkle:shortVersionString="1.8.3"
+                length="2137620"
+                type="application/octet-stream"
+                sparkle:edSignature="puRwti3AJJI/kOfLqDSxqF+kHH0cdV5ei+krGtYtgMbX1DBF7O/uolpymCceNiIcnpz6+Ub6k629Dr+EpWnlAg=="
+            />
+        </item>
+        <item>
             <title>Version 1.8.1</title>
             <pubDate>Mon, 15 Dec 2025 01:51:28 +0000</pubDate>
             <sparkle:version>1.8.1</sparkle:version>
