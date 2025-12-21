@@ -3,6 +3,27 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 1.14.11</title>
+            <pubDate>Sun, 21 Dec 2025 15:41:39 +0000</pubDate>
+            <sparkle:version>1.14.11</sparkle:version>
+            <sparkle:shortVersionString>1.14.11</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 1.14.11</h2>
+                <ul>
+                    <li>Updates and improvements</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v1.14.11</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v1.14.11/Speed.app.zip"
+                sparkle:version="1.14.11"
+                sparkle:shortVersionString="1.14.11"
+                length="2841529"
+                type="application/octet-stream"
+                sparkle:edSignature="sdeNEYozi7CmFp2lHsM08AbTO480kXg/qWsfa6C+2bIKETFfuKcLK1gQcgXOpHAxSHUIedgeA5UJat+/FNyKCg=="
+            />
+        </item>
+        <item>
             <title>Version 1.14.10</title>
             <pubDate>Sat, 20 Dec 2025 18:26:10 +0000</pubDate>
             <sparkle:version>1.14.10</sparkle:version>
