@@ -3,6 +3,29 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 1.17.0</title>
+            <pubDate>Fri, 26 Dec 2025 16:45:37 +0000</pubDate>
+            <sparkle:version>1.17.0</sparkle:version>
+            <sparkle:shortVersionString>1.17.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 1.17.0</h2>
+                <ul>
+                    <li>Fix: Recurring task bug</li>
+                    <li>Feature: Task Time Parsing</li>
+                    <li>Fix: iCloud Sync / Reminders collision</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v1.17.0</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v1.17.0/Speed.app.zip"
+                sparkle:version="1.17.0"
+                sparkle:shortVersionString="1.17.0"
+                length="2996476"
+                type="application/octet-stream"
+                sparkle:edSignature="7ZULBDUyqvrX5uzchRoZVqR5RbKQLLPsu8r9Z00yh9nXkZf+KzQHFIVzC2Py+tni4KGqDTWxo6oetLY7299+BA=="
+            />
+        </item>
+        <item>
             <title>Version 1.16.1</title>
             <pubDate>Thu, 25 Dec 2025 19:29:26 +0000</pubDate>
             <sparkle:version>1.16.1</sparkle:version>
