@@ -3,6 +3,27 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 1.19.0</title>
+            <pubDate>Sun, 04 Jan 2026 17:02:19 +0000</pubDate>
+            <sparkle:version>1.19.0</sparkle:version>
+            <sparkle:shortVersionString>1.19.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 1.19.0</h2>
+                <ul>
+                    <li>Fix: iCloud Sync 2.0</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v1.19.0</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v1.19.0/Speed.app.zip"
+                sparkle:version="1.19.0"
+                sparkle:shortVersionString="1.19.0"
+                length="3098531"
+                type="application/octet-stream"
+                sparkle:edSignature="DirPhbNSKB7BVwWqVKeU8FcN70yvEJoj1cdjWrarflWS8vrJc3sa5qbN6qVQqx/LPR45Jmb+Qxy0TpAzNpLXDA=="
+            />
+        </item>
+        <item>
             <title>Version 1.18.6</title>
             <pubDate>Sun, 04 Jan 2026 05:13:00 +0000</pubDate>
             <sparkle:version>1.18.6</sparkle:version>
