@@ -3,6 +3,30 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 1.20.0</title>
+            <pubDate>Mon, 05 Jan 2026 03:29:21 +0000</pubDate>
+            <sparkle:version>1.20.0</sparkle:version>
+            <sparkle:shortVersionString>1.20.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 1.20.0</h2>
+                <ul>
+                    <li>Fix: Prize Counter Improvements</li>
+                    <li>Feature: Prize Counter!</li>
+                    <li>Fix: Animate scheduled + deleting tasks</li>
+                    <li>Fix: Subtask checks not saving</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v1.20.0</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v1.20.0/Speed.app.zip"
+                sparkle:version="1.20.0"
+                sparkle:shortVersionString="1.20.0"
+                length="3294593"
+                type="application/octet-stream"
+                sparkle:edSignature="Pb+GbkZsvnlfSPvc+hV0E6uwvfowZn8euVuuCPLBrpOUV6XSv47N/p5tRc4U3ib3ZNxDYmRi9B+SKRc1TjWQBA=="
+            />
+        </item>
+        <item>
             <title>Version 1.19.0</title>
             <pubDate>Sun, 04 Jan 2026 17:02:19 +0000</pubDate>
             <sparkle:version>1.19.0</sparkle:version>
