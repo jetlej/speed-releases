@@ -3,6 +3,33 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 1.21.0</title>
+            <pubDate>Tue, 06 Jan 2026 02:06:11 +0000</pubDate>
+            <sparkle:version>1.21.0</sparkle:version>
+            <sparkle:shortVersionString>1.21.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 1.21.0</h2>
+                <ul>
+                    <li>New Shortcut: CMD + Opt + T to go to ‘Today’ list</li>
+                    <li>Improvement: Apple Reminders import notes + subtasks too</li>
+                    <li>Fix: Always select task below when task leaves a list</li>
+                    <li>Improvement: Hide past days in taks scheduler popup</li>
+                    <li>Fix: Dragging tasks while frog task is active</li>
+                    <li>Feature: Github repo-level list selection</li>
+                    <li>Improvement: Better Quick-Add controls for when/list/priority</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v1.21.0</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v1.21.0/Speed.app.zip"
+                sparkle:version="1.21.0"
+                sparkle:shortVersionString="1.21.0"
+                length="3345266"
+                type="application/octet-stream"
+                sparkle:edSignature="UULmlCf1LcXfVxKyUsH8v/kZ76iV0N6eRzvB9viNIbPOVVfPh0dLLs1pI4LQhZRshOGAPxt/FGYyK/MTMedjCA=="
+            />
+        </item>
+        <item>
             <title>Version 1.20.0</title>
             <pubDate>Mon, 05 Jan 2026 03:29:21 +0000</pubDate>
             <sparkle:version>1.20.0</sparkle:version>
