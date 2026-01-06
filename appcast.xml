@@ -3,6 +3,29 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 1.22.0</title>
+            <pubDate>Tue, 06 Jan 2026 21:09:58 +0000</pubDate>
+            <sparkle:version>1.22.0</sparkle:version>
+            <sparkle:shortVersionString>1.22.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 1.22.0</h2>
+                <ul>
+                    <li>Fix: Graphite syncing + small fixes</li>
+                    <li>Improvement: Frog + Priority setting for Recurring Tasks</li>
+                    <li>Fix: Move scheduled tasks to Today on app-focus</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v1.22.0</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v1.22.0/Speed.app.zip"
+                sparkle:version="1.22.0"
+                sparkle:shortVersionString="1.22.0"
+                length="3409614"
+                type="application/octet-stream"
+                sparkle:edSignature="mR1SAJJcjqpW0OeS5DGNgVUHGZX4XEQlNGCNIxHIhKW1xZ1o4dMr4qQVLHi3icrg0eqVKoONoNjQaAX3F7i5Bw=="
+            />
+        </item>
+        <item>
             <title>Version 1.21.0</title>
             <pubDate>Tue, 06 Jan 2026 02:06:11 +0000</pubDate>
             <sparkle:version>1.21.0</sparkle:version>
