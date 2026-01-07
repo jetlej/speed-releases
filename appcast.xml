@@ -3,6 +3,28 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 1.23.0</title>
+            <pubDate>Wed, 07 Jan 2026 14:51:43 +0000</pubDate>
+            <sparkle:version>1.23.0</sparkle:version>
+            <sparkle:shortVersionString>1.23.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 1.23.0</h2>
+                <ul>
+                    <li>Feature: Schedule task for ‘This Evening’</li>
+                    <li>Fix: Quick Add still focusing List View</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v1.23.0</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v1.23.0/Speed.app.zip"
+                sparkle:version="1.23.0"
+                sparkle:shortVersionString="1.23.0"
+                length="3422430"
+                type="application/octet-stream"
+                sparkle:edSignature="tSqvAvMRVxwOVon0+0z+4nNJSvcjlGhp0d96pznvZ0OUd9Lq9o1f/wccgUwCen1XmyfBVhFxg+b7txwKv5toBQ=="
+            />
+        </item>
+        <item>
             <title>Version 1.22.0</title>
             <pubDate>Tue, 06 Jan 2026 21:09:58 +0000</pubDate>
             <sparkle:version>1.22.0</sparkle:version>
