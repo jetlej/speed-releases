@@ -3,6 +3,27 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 1.24.0</title>
+            <pubDate>Fri, 09 Jan 2026 16:06:13 +0000</pubDate>
+            <sparkle:version>1.24.0</sparkle:version>
+            <sparkle:shortVersionString>1.24.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 1.24.0</h2>
+                <ul>
+                    <li>Fix: Deleting recurring tasks did not respawn</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v1.24.0</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v1.24.0/Speed.app.zip"
+                sparkle:version="1.24.0"
+                sparkle:shortVersionString="1.24.0"
+                length="3428333"
+                type="application/octet-stream"
+                sparkle:edSignature="HJckIpVKnf4ZC79hl6OC2FsaGfGtbH5ECGqTp6xBtIxwKPJwJW6IkeD4wdD8AIXP5dyFRoC7Syyk0CHAWhXYCA=="
+            />
+        </item>
+        <item>
             <title>Version 1.23.0</title>
             <pubDate>Wed, 07 Jan 2026 14:51:43 +0000</pubDate>
             <sparkle:version>1.23.0</sparkle:version>
