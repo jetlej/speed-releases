@@ -3,6 +3,28 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.1.0</title>
+            <pubDate>Tue, 13 Jan 2026 13:57:51 +0000</pubDate>
+            <sparkle:version>2.1.0</sparkle:version>
+            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.1.0</h2>
+                <ul>
+                    <li>Fix: Completed list performance issues</li>
+                    <li>Feature: Celebration emojis + full-screen text!</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.1.0</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.1.0/Speed.app.zip"
+                sparkle:version="2.1.0"
+                sparkle:shortVersionString="2.1.0"
+                length="3658216"
+                type="application/octet-stream"
+                sparkle:edSignature="9qvbLKmT7tED8BoDo3SrdU0+zZDp7GR4/BgUMJgkIMPQmat7+mYQ6QBHyFE6QZC9IGguQAemysueRUE1LVDbAg=="
+            />
+        </item>
+        <item>
             <title>Version 2.0.0</title>
             <pubDate>Sat, 10 Jan 2026 16:19:08 +0000</pubDate>
             <sparkle:version>2.0.0</sparkle:version>
