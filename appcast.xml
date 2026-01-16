@@ -3,6 +3,28 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.2.0</title>
+            <pubDate>Fri, 16 Jan 2026 14:13:51 +0000</pubDate>
+            <sparkle:version>2.2.0</sparkle:version>
+            <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.2.0</h2>
+                <ul>
+                    <li>Fix: Unfocus list tasks when clicking in drawer</li>
+                    <li>New Settings Page UI</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.2.0</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.2.0/Speed.app.zip"
+                sparkle:version="2.2.0"
+                sparkle:shortVersionString="2.2.0"
+                length="3553577"
+                type="application/octet-stream"
+                sparkle:edSignature="uWrmRBA1c0ZIbg2M+5UVs0v20UeI4XtIKhO+LuwSkkS+N+wUv4bLUOff5bJmguM4RoWu8YXcbrUklcqntL+8AA=="
+            />
+        </item>
+        <item>
             <title>Version 2.1.0</title>
             <pubDate>Tue, 13 Jan 2026 13:57:51 +0000</pubDate>
             <sparkle:version>2.1.0</sparkle:version>
