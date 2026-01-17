@@ -3,6 +3,27 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.2.1</title>
+            <pubDate>Sat, 17 Jan 2026 16:52:48 +0000</pubDate>
+            <sparkle:version>2.2.1</sparkle:version>
+            <sparkle:shortVersionString>2.2.1</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.2.1</h2>
+                <ul>
+                    <li>Fix: Can’t edit tasks by double-click</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.2.1</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.2.1/Speed.app.zip"
+                sparkle:version="2.2.1"
+                sparkle:shortVersionString="2.2.1"
+                length="3554011"
+                type="application/octet-stream"
+                sparkle:edSignature="yl5fr/CdgJvZEyI7JTjRW5Q6Fh+SI0c+zLrvG99RkynAPkyKwVG3K9F1AM11S6CHbfBEhKwd3AzJiBl14eo9Dg=="
+            />
+        </item>
+        <item>
             <title>Version 2.2.0</title>
             <pubDate>Fri, 16 Jan 2026 14:13:51 +0000</pubDate>
             <sparkle:version>2.2.0</sparkle:version>
