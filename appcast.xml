@@ -3,6 +3,29 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.4.0</title>
+            <pubDate>Wed, 21 Jan 2026 21:45:33 +0000</pubDate>
+            <sparkle:version>2.4.0</sparkle:version>
+            <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.4.0</h2>
+                <ul>
+                    <li>Fix: LIst view window rounding bug</li>
+                    <li>Fix: Don’t change task priority when auto-ordering is disabled</li>
+                    <li>Confirm deletion of recurring task templates</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.4.0</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.4.0/Speed.app.zip"
+                sparkle:version="2.4.0"
+                sparkle:shortVersionString="2.4.0"
+                length="3595535"
+                type="application/octet-stream"
+                sparkle:edSignature="9RUM6tki1oNeoTGvHjrzAxlAn9sgS5C7nRkQgT/giOsHn3lF1JiRESnnGXyUctSrkpiy+7Kalr9iZ9VJuvtgBQ=="
+            />
+        </item>
+        <item>
             <title>Version 2.3.0</title>
             <pubDate>Sat, 17 Jan 2026 17:49:53 +0000</pubDate>
             <sparkle:version>2.3.0</sparkle:version>
