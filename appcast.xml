@@ -3,6 +3,27 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.6.1</title>
+            <pubDate>Sun, 15 Feb 2026 15:50:23 +0000</pubDate>
+            <sparkle:version>2.6.1</sparkle:version>
+            <sparkle:shortVersionString>2.6.1</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.6.1</h2>
+                <ul>
+                    <li>Fix drawer height issues!</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.6.1</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.6.1/Speed.app.zip"
+                sparkle:version="2.6.1"
+                sparkle:shortVersionString="2.6.1"
+                length="3637394"
+                type="application/octet-stream"
+                sparkle:edSignature="clbhHNfI4QRaJj2gXfo5HDnlMSaV40MdUTk1Jo94umVdNp8Pdmz23jlBqqlXgkKGrZRgh8Q9YhVMmvYLg4GnAQ=="
+            />
+        </item>
+        <item>
             <title>Version 2.6.0</title>
             <pubDate>Fri, 13 Feb 2026 16:23:51 +0000</pubDate>
             <sparkle:version>2.6.0</sparkle:version>
