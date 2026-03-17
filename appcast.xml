@@ -3,6 +3,27 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.3</title>
+            <pubDate>Mon, 17 Mar 2026 21:59:00 +0000</pubDate>
+            <sparkle:version>2.7.3</sparkle:version>
+            <sparkle:shortVersionString>2.7.3</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.3</h2>
+                <ul>
+                    <li>Fix: CloudKit save batching for large task counts</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.3</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.3/Speed.app.zip"
+                sparkle:version="2.7.3"
+                sparkle:shortVersionString="2.7.3"
+                length="3474214"
+                type="application/octet-stream"
+                sparkle:edSignature="lih7LhN+sunnsX4Vf+GGaYe/toYau6DiaFX3AeQMVVytNwIjPvjlqXn71k/VFngS3hkDUi1+rZPxZ3+mPn9rDg=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.2</title>
             <pubDate>Mon, 17 Mar 2026 20:50:00 +0000</pubDate>
             <sparkle:version>2.7.2</sparkle:version>
