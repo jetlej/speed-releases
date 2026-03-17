@@ -3,25 +3,25 @@
     <channel>
         <title>Speed Updates</title>
         <item>
-            <title>Version 2.7.4</title>
-            <pubDate>Mon, 17 Mar 2026 20:30:00 +0000</pubDate>
-            <sparkle:version>2.7.4</sparkle:version>
-            <sparkle:shortVersionString>2.7.4</sparkle:shortVersionString>
+            <title>Version 2.7.5</title>
+            <pubDate>Tue, 17 Mar 2026 21:32:05 +0000</pubDate>
+            <sparkle:version>2.7.5</sparkle:version>
+            <sparkle:shortVersionString>2.7.5</sparkle:shortVersionString>
             <description><![CDATA[
-                <h2>Version 2.7.4</h2>
+                <h2>Version 2.7.5</h2>
                 <ul>
-                    <li>Fix: Clear stale CloudKit change tokens and re-migrate</li>
-                    <li>Add Reset Sync button for manual token/migration reset</li>
+                    <li>Fix: CloudKit environment mapping across build configurations</li>
+                    <li>Improved sync diagnostics and CloudKit counting visibility</li>
                 </ul>
             ]]></description>
-            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.4</link>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.5</link>
             <enclosure
-                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.4/Speed.app.zip"
-                sparkle:version="2.7.4"
-                sparkle:shortVersionString="2.7.4"
-                length="6047749"
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.5/Speed.app.zip"
+                sparkle:version="2.7.5"
+                sparkle:shortVersionString="2.7.5"
+                length="3482824"
                 type="application/octet-stream"
-                sparkle:edSignature="2y9+ubqhvV/khPDjk9cWbeRro2e7ifEivQvjDo8g5hjenuE4isF+m//O7O+NuB/jRxOxp/xcyh4J1pXuCLtjAg=="
+                sparkle:edSignature="10MPZm2DLQHWV77c4h0r35lchA88EcifGSDa5P0o4PUklVwD/u3XkT06rs172lE1O6MdBaQ5KaE99g1IsPS3Bg=="
             />
         </item>
         <item>
