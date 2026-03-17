@@ -3,6 +3,29 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.0</title>
+            <pubDate>Mon, 17 Mar 2026 17:45:00 +0000</pubDate>
+            <sparkle:version>2.7.0</sparkle:version>
+            <sparkle:shortVersionString>2.7.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.0</h2>
+                <ul>
+                    <li>Feature: Eat the Frog daily picking flow</li>
+                    <li>Feature: Configurable day start hour</li>
+                    <li>Fix: Frog styling properly gated behind setting</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.0</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.0/Speed.app.zip"
+                sparkle:version="2.7.0"
+                sparkle:shortVersionString="2.7.0"
+                length="3469581"
+                type="application/octet-stream"
+                sparkle:edSignature="f9DQmiE9hlpc2GBZu9F862aR4j2dY0WZIcYkC9z9UK8DZ0G0qMrpoEwXqDVGUSY9+l022XYCmjJwx4db5J4pAg=="
+            />
+        </item>
+        <item>
             <title>Version 2.6.5</title>
             <pubDate>Mon, 17 Mar 2026 10:00:00 +0000</pubDate>
             <sparkle:version>2.6.5</sparkle:version>
