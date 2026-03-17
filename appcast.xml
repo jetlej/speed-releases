@@ -3,6 +3,28 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.4</title>
+            <pubDate>Mon, 17 Mar 2026 20:30:00 +0000</pubDate>
+            <sparkle:version>2.7.4</sparkle:version>
+            <sparkle:shortVersionString>2.7.4</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.4</h2>
+                <ul>
+                    <li>Fix: Clear stale CloudKit change tokens and re-migrate</li>
+                    <li>Add Reset Sync button for manual token/migration reset</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.4</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.4/Speed.app.zip"
+                sparkle:version="2.7.4"
+                sparkle:shortVersionString="2.7.4"
+                length="6047749"
+                type="application/octet-stream"
+                sparkle:edSignature="2y9+ubqhvV/khPDjk9cWbeRro2e7ifEivQvjDo8g5hjenuE4isF+m//O7O+NuB/jRxOxp/xcyh4J1pXuCLtjAg=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.3</title>
             <pubDate>Mon, 17 Mar 2026 21:59:00 +0000</pubDate>
             <sparkle:version>2.7.3</sparkle:version>
