@@ -3,6 +3,28 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.2</title>
+            <pubDate>Mon, 17 Mar 2026 20:50:00 +0000</pubDate>
+            <sparkle:version>2.7.2</sparkle:version>
+            <sparkle:shortVersionString>2.7.2</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.2</h2>
+                <ul>
+                    <li>Fix: CloudKit sync reliability and migration ordering</li>
+                    <li>Enhanced sync diagnostics with Copy Log</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.2</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.2/Speed.app.zip"
+                sparkle:version="2.7.2"
+                sparkle:shortVersionString="2.7.2"
+                length="3472079"
+                type="application/octet-stream"
+                sparkle:edSignature="YJXbtMKqQWagl8CaCMDLOwYfU1uKu+MdVxrNvT0I/gTISL5rvkP/qKAv9MMtfN11a488wPvf7BP9lc2nGLm7BQ=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.1</title>
             <pubDate>Mon, 17 Mar 2026 19:30:00 +0000</pubDate>
             <sparkle:version>2.7.1</sparkle:version>
