@@ -3,6 +3,27 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.6.4</title>
+            <pubDate>Tue, 17 Mar 2026 01:18:38 +0000</pubDate>
+            <sparkle:version>2.6.4</sparkle:version>
+            <sparkle:shortVersionString>2.6.4</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.6.4</h2>
+                <ul>
+                    <li>Fix: iCloud sync from mobile to desktop</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.6.4</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.6.4/Speed.app.zip"
+                sparkle:version="2.6.4"
+                sparkle:shortVersionString="2.6.4"
+                length="3652420"
+                type="application/octet-stream"
+                sparkle:edSignature="L7U4rOLzXxNJk6Do4nHBGKnrG7ZFQ3ShwfOxJ+R6IMKYX0+JL+YueSQag/T2wunQhmkPgOZYDe6dweG2vZc/Cg=="
+            />
+        </item>
+        <item>
             <title>Version 2.6.3</title>
             <pubDate>Fri, 27 Feb 2026 18:26:52 +0000</pubDate>
             <sparkle:version>2.6.3</sparkle:version>
