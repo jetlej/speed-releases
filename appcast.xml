@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.11</title>
+            <pubDate>Wed, 18 Mar 2026 13:57:54 +0000</pubDate>
+            <sparkle:version>2.7.11</sparkle:version>
+            <sparkle:shortVersionString>2.7.11</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.11</h2>
+                <ul>
+                    <li>Release automation validation rerun</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.11</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.11/Speed.app.zip"
+                sparkle:version="2.7.11"
+                sparkle:shortVersionString="2.7.11"
+                length="3799981"
+                type="application/octet-stream"
+                sparkle:edSignature="G1s2lL6cR0foHQKAbQUK8kYmrm7QPMqBzzzwtMP6kH9GS4cPxJk/Qwjc2/zNis27S4GESxFXBltCmyCilrAMCw=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.10</title>
             <pubDate>Wed, 18 Mar 2026 13:46:08 +0000</pubDate>
             <sparkle:version>2.7.10</sparkle:version>
