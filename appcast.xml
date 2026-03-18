@@ -3,71 +3,6 @@
     <channel>
         <title>Speed Updates</title>
         <item>
-<<<<<<< HEAD
-            <title>Version 2.7.8</title>
-            <pubDate>Wed, 18 Mar 2026 01:57:03 +0000</pubDate>
-            <sparkle:version>2.7.8</sparkle:version>
-            <sparkle:shortVersionString>2.7.8</sparkle:shortVersionString>
-            <description><![CDATA[
-                <h2>Version 2.7.8</h2>
-                <ul>
-                    <li>Fix: comprehensive task mutation sync hardening across desktop and mobile</li>
-                    <li>Fix: reorder, completion, undo-restore, and field updates now publish consistently</li>
-                </ul>
-            ]]></description>
-            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.8</link>
-            <enclosure
-                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.8/Speed.app.zip"
-                sparkle:version="2.7.8"
-                sparkle:shortVersionString="2.7.8"
-                length="3813115"
-                type="application/octet-stream"
-                sparkle:edSignature="8UthVXXeUQdycQe0FOQ5iW149D58x9my2eAFpjCvW1lRgA3P6iWo/oTvJE8Erl+jG3cxvzuUkbIr+v2eD3XjAQ=="
-            />
-        </item>
-        <item>
-            <title>Version 2.7.7</title>
-            <pubDate>Wed, 18 Mar 2026 01:05:11 +0000</pubDate>
-            <sparkle:version>2.7.7</sparkle:version>
-            <sparkle:shortVersionString>2.7.7</sparkle:shortVersionString>
-            <description><![CDATA[
-                <h2>Version 2.7.7</h2>
-                <ul>
-                    <li>Fix: CloudKit sync acknowledgements now clear dirty state only after confirmed server success</li>
-                    <li>Fix: durable tombstones now protect list/template/prize deletions from stale resurrection</li>
-                </ul>
-            ]]></description>
-            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.7</link>
-            <enclosure
-                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.7/Speed.app.zip"
-                sparkle:version="2.7.7"
-                sparkle:shortVersionString="2.7.7"
-                length="3805832"
-                type="application/octet-stream"
-                sparkle:edSignature="6m7ktOZyWGK2je+xmB9TBw5XhBJj/1pJv1+wV1BBFd1ED+yp7Hf7K74UHt/tL282cQBb4ijB1TT8C3DpU1b8Dw=="
-            />
-        </item>
-        <item>
-            <title>Version 2.7.6</title>
-            <pubDate>Tue, 17 Mar 2026 23:57:35 +0000</pubDate>
-            <sparkle:version>2.7.6</sparkle:version>
-            <sparkle:shortVersionString>2.7.6</sparkle:shortVersionString>
-            <description><![CDATA[
-                <h2>Version 2.7.6</h2>
-                <ul>
-                    <li>Fix: CloudKit sync hardening for delete consistency and stability</li>
-                    <li>Safety: add write-only KVS task shadow backup during CloudKit testing</li>
-                </ul>
-            ]]></description>
-            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.6</link>
-            <enclosure
-                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.6/Speed.app.zip"
-                sparkle:version="2.7.6"
-                sparkle:shortVersionString="2.7.6"
-                length="3750482"
-                type="application/octet-stream"
-                sparkle:edSignature="QRUjuLKq9iQPyQ93WavVkLWHZ+L1NQyf8I1Gyk/uUFBKv0YwAwpIm4DVC7NG6r78XwWNLgTPKG+NFD3YXdl6BA=="
-=======
             <title>Version 2.7.9</title>
             <pubDate>Wed, 18 Mar 2026 03:21:40 +0000</pubDate>
             <sparkle:version>2.7.9</sparkle:version>
@@ -88,7 +23,6 @@
                 length="3799295"
                 type="application/octet-stream"
                 sparkle:edSignature="pCU5UobypricZ3SeKaz3lf26tEfgPo/2UWBfA0IZ6h8Whkz7ROtBKmyNXUPTIHRsyRWUp3DMDOruerbvm6CsCQ=="
->>>>>>> f7ade1f (Release Speed 2.7.9.)
             />
         </item>
         <item>
