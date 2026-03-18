@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.17</title>
+            <pubDate>Wed, 18 Mar 2026 18:46:40 +0000</pubDate>
+            <sparkle:version>2.7.17</sparkle:version>
+            <sparkle:shortVersionString>2.7.17</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.17</h2>
+                <ul>
+                    <li>CloudKit delete-undo restore sync fixes</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.17</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.17/Speed.app.zip"
+                sparkle:version="2.7.17"
+                sparkle:shortVersionString="2.7.17"
+                length="3813577"
+                type="application/octet-stream"
+                sparkle:edSignature="MluqrOTD8/+WqA9gwtCmGJo4puvs0ksYiY7Y6s/B8i0VzYoi1CAFJsR6Qc9Zzu4yKrE5AwTKUsK2eHY+WCrnAQ=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.16</title>
             <pubDate>Wed, 18 Mar 2026 17:25:44 +0000</pubDate>
             <sparkle:version>2.7.16</sparkle:version>
