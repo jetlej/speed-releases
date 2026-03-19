@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.18</title>
+            <pubDate>Thu, 19 Mar 2026 02:29:03 +0000</pubDate>
+            <sparkle:version>2.7.18</sparkle:version>
+            <sparkle:shortVersionString>2.7.18</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.18</h2>
+                <ul>
+                    <li>Fix Focus Mode centering on desktop</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.18</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.18/Speed.app.zip"
+                sparkle:version="2.7.18"
+                sparkle:shortVersionString="2.7.18"
+                length="3814879"
+                type="application/octet-stream"
+                sparkle:edSignature="JX0VXylYTBn3BRkzH3td02PbjQeyHaRtRGE6XXY2TaDIaxga0hcSGHG20RuO2PImaprGiSYsS1B2a9c/t4c4AA=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.17</title>
             <pubDate>Wed, 18 Mar 2026 18:46:40 +0000</pubDate>
             <sparkle:version>2.7.17</sparkle:version>
