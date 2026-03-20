@@ -1,0 +1,9 @@
+{
+  "ios": {
+    "minimumBuild": 31,
+    "minimumVersion": "1.0.0",
+    "updateUrl": "itms-beta://",
+    "title": "Update required",
+    "message": ""
+  }
+}
