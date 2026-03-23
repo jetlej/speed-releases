@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.20</title>
+            <pubDate>Mon, 23 Mar 2026 13:45:08 +0000</pubDate>
+            <sparkle:version>2.7.20</sparkle:version>
+            <sparkle:shortVersionString>2.7.20</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.20</h2>
+                <ul>
+                    <li>Fixes macOS Cmd+Arrow reorder animation reliability</li>\n                    <li>includes stability improvements.</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.20</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.20/Speed.app.zip"
+                sparkle:version="2.7.20"
+                sparkle:shortVersionString="2.7.20"
+                length="3821010"
+                type="application/octet-stream"
+                sparkle:edSignature="NId5KuonF/Q2CEhxb4BjwZqRNHmCb6AgmF7ZRlHtET6Kw/s7lzElspRXbQVeOSenOcWnxsZUb5OxP5fejlHJCw=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.19</title>
             <pubDate>Thu, 19 Mar 2026 23:11:40 +0000</pubDate>
             <sparkle:version>2.7.19</sparkle:version>
