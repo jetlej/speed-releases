@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.21</title>
+            <pubDate>Fri, 27 Mar 2026 14:03:34 +0000</pubDate>
+            <sparkle:version>2.7.21</sparkle:version>
+            <sparkle:shortVersionString>2.7.21</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.21</h2>
+                <ul>
+                    <li>Fix sync: only upload records the user actually changed, not the entire local cache. Prevents stale data from overwriting newer edits across devices.</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.21</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.21/Speed.app.zip"
+                sparkle:version="2.7.21"
+                sparkle:shortVersionString="2.7.21"
+                length="3826103"
+                type="application/octet-stream"
+                sparkle:edSignature="hofTkYRHyYm9JIZFGmlqJQtV3LJypP7Dw1eaM2QcZbUWSmFld8aR+qCw62CJ9E0SRTbbBygV4Coxo7GFmKn7Bw=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.20</title>
             <pubDate>Mon, 23 Mar 2026 13:45:08 +0000</pubDate>
             <sparkle:version>2.7.20</sparkle:version>
