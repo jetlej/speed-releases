@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.22</title>
+            <pubDate>Sun, 29 Mar 2026 19:42:45 +0000</pubDate>
+            <sparkle:version>2.7.22</sparkle:version>
+            <sparkle:shortVersionString>2.7.22</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.22</h2>
+                <ul>
+                    <li>Add list icons and emoji to sidebar, fix emoji clipping, widen drawer, iOS drawer improvements</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.22</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.22/Speed.app.zip"
+                sparkle:version="2.7.22"
+                sparkle:shortVersionString="2.7.22"
+                length="5698208"
+                type="application/octet-stream"
+                sparkle:edSignature="hQ8EGUfcmBejKvRXJf1bzHpCeXuJBvU7fmPV1z1JA7yFlFdtyljCl/7ThLIVtUdRX4TIm7VrqmkIvf0hGuKzDQ=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.21</title>
             <pubDate>Fri, 27 Mar 2026 14:03:34 +0000</pubDate>
             <sparkle:version>2.7.21</sparkle:version>
