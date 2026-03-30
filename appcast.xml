@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.23</title>
+            <pubDate>Mon, 30 Mar 2026 00:13:31 +0000</pubDate>
+            <sparkle:version>2.7.23</sparkle:version>
+            <sparkle:shortVersionString>2.7.23</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.23</h2>
+                <ul>
+                    <li>Wire macOS list settings to persistence and UI, move list settings to General, fix iOS list page title icon, emoji save on dismiss, and upload icon label</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.23</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.23/Speed.app.zip"
+                sparkle:version="2.7.23"
+                sparkle:shortVersionString="2.7.23"
+                length="5722484"
+                type="application/octet-stream"
+                sparkle:edSignature="+3CxUzgaFKEMfynazlFQsSvqX38pgrAt9nv2LSZ0c1jTlgRAd8SgUzTHgJL2NPhKEFkH5DmLBL403zsr3VVDDg=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.22</title>
             <pubDate>Sun, 29 Mar 2026 19:42:45 +0000</pubDate>
             <sparkle:version>2.7.22</sparkle:version>
