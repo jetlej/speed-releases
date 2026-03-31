@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.24</title>
+            <pubDate>Tue, 31 Mar 2026 14:11:19 +0000</pubDate>
+            <sparkle:version>2.7.24</sparkle:version>
+            <sparkle:shortVersionString>2.7.24</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.24</h2>
+                <ul>
+                    <li>Fix arrow key navigation order with group-by-list and consistent list token alignment</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.24</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.24/Speed.app.zip"
+                sparkle:version="2.7.24"
+                sparkle:shortVersionString="2.7.24"
+                length="5734442"
+                type="application/octet-stream"
+                sparkle:edSignature="uPECKbiE4K7C31Ff7hqOY2qW4HUJO2uUf1IPn7wtvWkxcJAlT54OeWgdmkRogi1Md0N9ntFk8WJPBu2CYBs6Dg=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.23</title>
             <pubDate>Mon, 30 Mar 2026 00:13:31 +0000</pubDate>
             <sparkle:version>2.7.23</sparkle:version>
