@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.25</title>
+            <pubDate>Fri, 03 Apr 2026 13:56:08 +0000</pubDate>
+            <sparkle:version>2.7.25</sparkle:version>
+            <sparkle:shortVersionString>2.7.25</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.25</h2>
+                <ul>
+                    <li>Fix sync: persist dirty state across app restarts, add macOS sync health checks</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.25</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.25/Speed.app.zip"
+                sparkle:version="2.7.25"
+                sparkle:shortVersionString="2.7.25"
+                length="5772425"
+                type="application/octet-stream"
+                sparkle:edSignature="fnJYq7v4Qj/stHNezQyFobpQnvyEIUhFmzs1za8PBrD8RsTjug0NKWIbdKqQcuFCw54xdC4Zej/V7p+jn+SbDg=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.24</title>
             <pubDate>Tue, 31 Mar 2026 14:11:19 +0000</pubDate>
             <sparkle:version>2.7.24</sparkle:version>
