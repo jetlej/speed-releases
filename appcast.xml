@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.28</title>
+            <pubDate>Mon, 06 Apr 2026 15:08:00 +0000</pubDate>
+            <sparkle:version>2.7.28</sparkle:version>
+            <sparkle:shortVersionString>2.7.28</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.28</h2>
+                <ul>
+                    <li>Fix CloudKit sync: clear permanent failure dirty flags</li>\n                    <li>fix sync health check to use zone fetch instead of queries</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.28</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.28/Speed.app.zip"
+                sparkle:version="2.7.28"
+                sparkle:shortVersionString="2.7.28"
+                length="5783117"
+                type="application/octet-stream"
+                sparkle:edSignature="0jKXGKgmFMzblEOcWKN5jeizsngBIZNbMzV88j5f3vK+Jr4+lMEZQSsyHFy1PuaDcwIvgfNWgwfpwfQ0XALwCQ=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.27</title>
             <pubDate>Sun, 05 Apr 2026 16:20:31 +0000</pubDate>
             <sparkle:version>2.7.27</sparkle:version>
