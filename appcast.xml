@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.30</title>
+            <pubDate>Fri, 10 Apr 2026 17:49:37 +0000</pubDate>
+            <sparkle:version>2.7.30</sparkle:version>
+            <sparkle:shortVersionString>2.7.30</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.30</h2>
+                <ul>
+                    <li>Fix recurring task scheduling at evening instead of morning</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.30</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.30/Speed.app.zip"
+                sparkle:version="2.7.30"
+                sparkle:shortVersionString="2.7.30"
+                length="5790032"
+                type="application/octet-stream"
+                sparkle:edSignature="vH/rFmdwlxZmXOQwvP/Il8uJWw0b+iyWkOCpv77389goDw15q5zrRShcI0pX/V1NuauKJT6Ax4JiV9JEkktrDQ=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.29</title>
             <pubDate>Fri, 10 Apr 2026 14:23:30 +0000</pubDate>
             <sparkle:version>2.7.29</sparkle:version>
