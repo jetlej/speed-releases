@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.31</title>
+            <pubDate>Mon, 20 Apr 2026 12:53:02 +0000</pubDate>
+            <sparkle:version>2.7.31</sparkle:version>
+            <sparkle:shortVersionString>2.7.31</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.31</h2>
+                <ul>
+                    <li>Fix sync issue where iOS edits could be lost when backgrounding the app</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.31</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.31/Speed.app.zip"
+                sparkle:version="2.7.31"
+                sparkle:shortVersionString="2.7.31"
+                length="5794766"
+                type="application/octet-stream"
+                sparkle:edSignature="yX/hrXlJPUvKf337EKDAkcJebuFoMQ44dfwXQirJj8Z+5Pd8Pd6Dux5jcDv3dXKwKdladBdK1kud1+2R9yszDQ=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.30</title>
             <pubDate>Fri, 10 Apr 2026 17:49:37 +0000</pubDate>
             <sparkle:version>2.7.30</sparkle:version>
