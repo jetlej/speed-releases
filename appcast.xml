@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.32</title>
+            <pubDate>Wed, 22 Apr 2026 19:53:22 +0000</pubDate>
+            <sparkle:version>2.7.32</sparkle:version>
+            <sparkle:shortVersionString>2.7.32</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.32</h2>
+                <ul>
+                    <li>Fix subtask editing: keyboard stays up on submit, tap to edit existing subtasks, smooth drag-to-reorder. Backfill nil modifiedAt for sync reliability.</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.32</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.32/Speed.app.zip"
+                sparkle:version="2.7.32"
+                sparkle:shortVersionString="2.7.32"
+                length="5793996"
+                type="application/octet-stream"
+                sparkle:edSignature="Sm7NWrXJFn16B/ebRVNye6pWJHzPgoZQzsMPshk8I4VdRHPqYd1SDdO8I48tu9LLkEfMA82HeRKEbmF1nekkCA=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.31</title>
             <pubDate>Mon, 20 Apr 2026 12:53:02 +0000</pubDate>
             <sparkle:version>2.7.31</sparkle:version>
