@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.33</title>
+            <pubDate>Fri, 15 May 2026 01:15:55 +0000</pubDate>
+            <sparkle:version>2.7.33</sparkle:version>
+            <sparkle:shortVersionString>2.7.33</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.33</h2>
+                <ul>
+                    <li>Adds Focus layout modes</li>\n                    <li>Fixes Focus settings preview reopening</li>\n                    <li>Improves Ambient Border customization</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.33</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.33/Speed.app.zip"
+                sparkle:version="2.7.33"
+                sparkle:shortVersionString="2.7.33"
+                length="5905725"
+                type="application/octet-stream"
+                sparkle:edSignature="EgLGyKjiZUguOxiRUjWJwjXRkqgwzvS7zQ1m+H3+LRD4YdcvHJRB/7tWrmAV5orYuNmnsjg3FpPKk13yXNfiAA=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.32</title>
             <pubDate>Wed, 22 Apr 2026 19:53:22 +0000</pubDate>
             <sparkle:version>2.7.32</sparkle:version>
