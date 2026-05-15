@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.34</title>
+            <pubDate>Fri, 15 May 2026 12:15:38 +0000</pubDate>
+            <sparkle:version>2.7.34</sparkle:version>
+            <sparkle:shortVersionString>2.7.34</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.34</h2>
+                <ul>
+                    <li>Adds the mobile AI assistant</li>\n                    <li>Improves chat-based task planning and review</li>\n                    <li>Refines mobile footer controls</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.34</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.34/Speed.app.zip"
+                sparkle:version="2.7.34"
+                sparkle:shortVersionString="2.7.34"
+                length="5914458"
+                type="application/octet-stream"
+                sparkle:edSignature="dg6y/PUiOUYFgTNhtH4YhhYar2sgoNe141q7z9nw9C1MuGK/VbYOadUkn6xSw0tH+KVSmfbHMthVs0UZieg4AA=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.33</title>
             <pubDate>Fri, 15 May 2026 01:15:55 +0000</pubDate>
             <sparkle:version>2.7.33</sparkle:version>
