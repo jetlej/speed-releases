@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.36</title>
+            <pubDate>Sat, 16 May 2026 13:22:33 +0000</pubDate>
+            <sparkle:version>2.7.36</sparkle:version>
+            <sparkle:shortVersionString>2.7.36</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.36</h2>
+                <ul>
+                    <li>Mobile AI assistant chat refinements</li>\n                    <li>Desktop focus window cleanup improvements</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.36</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.36/Speed.app.zip"
+                sparkle:version="2.7.36"
+                sparkle:shortVersionString="2.7.36"
+                length="6082060"
+                type="application/octet-stream"
+                sparkle:edSignature="tGeYY7ghyoq9QOeyLmEPjoX8tvqi56LN5O3QjCUFLpswnx1c7kk+XbT4US7SSYeVU9oau6kG0mlc+kCFM9nxBA=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.35</title>
             <pubDate>Fri, 15 May 2026 17:43:54 +0000</pubDate>
             <sparkle:version>2.7.35</sparkle:version>
