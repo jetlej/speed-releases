@@ -14,7 +14,7 @@
             ]]></description>
             <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.36</link>
             <enclosure
-                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.36/Speed.app.zip"
+                url="https://raw.githubusercontent.com/jetlej/speed-releases/main/Speed.app.zip"
                 sparkle:version="2.7.36"
                 sparkle:shortVersionString="2.7.36"
                 length="6082060"
