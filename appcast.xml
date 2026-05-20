@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.37</title>
+            <pubDate>Wed, 20 May 2026 16:13:29 +0000</pubDate>
+            <sparkle:version>2.7.37</sparkle:version>
+            <sparkle:shortVersionString>2.7.37</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.37</h2>
+                <ul>
+                    <li>AI Tools settings and mobile layout fixes</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.37</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.37/Speed.app.zip"
+                sparkle:version="2.7.37"
+                sparkle:shortVersionString="2.7.37"
+                length="6078741"
+                type="application/octet-stream"
+                sparkle:edSignature="9rCxXWLutCyt0ZauTnahKIf9yX3MP3hpeRmqYEADIJuAJiccLkhS4AR+R1pb4hVIDb+me09S1i+9vdDluW7ODw=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.36</title>
             <pubDate>Sat, 16 May 2026 13:22:33 +0000</pubDate>
             <sparkle:version>2.7.36</sparkle:version>
