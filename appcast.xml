@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.38</title>
+            <pubDate>Wed, 20 May 2026 17:32:29 +0000</pubDate>
+            <sparkle:version>2.7.38</sparkle:version>
+            <sparkle:shortVersionString>2.7.38</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.38</h2>
+                <ul>
+                    <li>Fix Desktop frame Focus Mode window restore</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.38</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.38/Speed.app.zip"
+                sparkle:version="2.7.38"
+                sparkle:shortVersionString="2.7.38"
+                length="6085183"
+                type="application/octet-stream"
+                sparkle:edSignature="Bkg3zj0tg6dWQlu+/U6p2RKowkW4zdIdmsdYJNndbQGqUhTThMb2L4H2sK95leAPRZM1kAdf1Yo33SK7EkLVCQ=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.37</title>
             <pubDate>Wed, 20 May 2026 16:13:29 +0000</pubDate>
             <sparkle:version>2.7.37</sparkle:version>
