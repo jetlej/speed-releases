@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.39</title>
+            <pubDate>Fri, 22 May 2026 19:13:48 +0000</pubDate>
+            <sparkle:version>2.7.39</sparkle:version>
+            <sparkle:shortVersionString>2.7.39</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.39</h2>
+                <ul>
+                    <li>Fix task notes rendering on macOS</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.39</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.39/Speed.app.zip"
+                sparkle:version="2.7.39"
+                sparkle:shortVersionString="2.7.39"
+                length="6118218"
+                type="application/octet-stream"
+                sparkle:edSignature="r5ncnCZmhtx18hJqu+eOn0ttr1cwYABdtkdwTf3N/ZpoAQf4P5Cgsvf0xA5YpDwrhUsgwnAquvkEJwipjo94DQ=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.38</title>
             <pubDate>Wed, 20 May 2026 17:32:29 +0000</pubDate>
             <sparkle:version>2.7.38</sparkle:version>
