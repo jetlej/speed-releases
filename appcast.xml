@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.40</title>
+            <pubDate>Sat, 23 May 2026 16:05:10 +0000</pubDate>
+            <sparkle:version>2.7.40</sparkle:version>
+            <sparkle:shortVersionString>2.7.40</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.40</h2>
+                <ul>
+                    <li>Agent Delegation improvements</li>\n                    <li>Custom agent instructions</li>\n                    <li>UI polish</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.40</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.40/Speed.app.zip"
+                sparkle:version="2.7.40"
+                sparkle:shortVersionString="2.7.40"
+                length="6246909"
+                type="application/octet-stream"
+                sparkle:edSignature="2pbKj44FnnRdUFiq2wXV6uIuvxp5dVQynbSUYn6ip3dEgxe4mVlnYCSkrYpY0QYX7T3N+2bdT0QsNYCLiNe3CQ=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.39</title>
             <pubDate>Fri, 22 May 2026 19:13:48 +0000</pubDate>
             <sparkle:version>2.7.39</sparkle:version>
