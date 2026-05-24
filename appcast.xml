@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.41</title>
+            <pubDate>Sun, 24 May 2026 17:06:29 +0000</pubDate>
+            <sparkle:version>2.7.41</sparkle:version>
+            <sparkle:shortVersionString>2.7.41</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.41</h2>
+                <ul>
+                    <li>Speed API bridge and agent skill updates</li>\n                    <li>AI settings polish</li>\n                    <li>task/list REST support.</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.41</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.41/Speed.app.zip"
+                sparkle:version="2.7.41"
+                sparkle:shortVersionString="2.7.41"
+                length="6380027"
+                type="application/octet-stream"
+                sparkle:edSignature="1+nbQnHqFUIRxuI0MKWbt2HKAWNwUJszlpsNJ4klItFeLTjnCeOsENJerou1S59mLd/JHJLU4qn7gT13XLooDw=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.40</title>
             <pubDate>Sat, 23 May 2026 16:05:10 +0000</pubDate>
             <sparkle:version>2.7.40</sparkle:version>
