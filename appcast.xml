@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.42</title>
+            <pubDate>Mon, 25 May 2026 00:55:34 +0000</pubDate>
+            <sparkle:version>2.7.42</sparkle:version>
+            <sparkle:shortVersionString>2.7.42</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.42</h2>
+                <ul>
+                    <li>Adds synced Trash for deleted tasks</li>\n                    <li>Restore deleted tasks from Trash on macOS and iOS</li>\n                    <li>Keeps deleted task archives for 14 days while preserving sync tombstones</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.42</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.42/Speed.app.zip"
+                sparkle:version="2.7.42"
+                sparkle:shortVersionString="2.7.42"
+                length="6451236"
+                type="application/octet-stream"
+                sparkle:edSignature="GEEol1VouGiL54VdCbEnqAwZHj5NeLs7KAUqR1AkSir2TUcyQchxgITyyJRg6wQlcf/O8/OQAzB0Cd37qdRuCQ=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.41</title>
             <pubDate>Sun, 24 May 2026 17:06:29 +0000</pubDate>
             <sparkle:version>2.7.41</sparkle:version>
