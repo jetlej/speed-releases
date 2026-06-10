@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.46</title>
+            <pubDate>Wed, 10 Jun 2026 14:58:10 +0000</pubDate>
+            <sparkle:version>2.7.46</sparkle:version>
+            <sparkle:shortVersionString>2.7.46</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.46</h2>
+                <ul>
+                    <li>Speed AI: the assistant, voice input, and weekly planning are now one unified experience with a single toggle and cleaner settings. Plan your week right from the assistant. Agent webhook and Speed API moved to Integrations.</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.46</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.46/Speed.app.zip"
+                sparkle:version="2.7.46"
+                sparkle:shortVersionString="2.7.46"
+                length="6499924"
+                type="application/octet-stream"
+                sparkle:edSignature="ynrlIfpuFZ9zJvaGtwCMifkGbCKtURBFtWAMLZeNd+ZB70CI0/uXzvCtkJFbCeoYEpmekfGqlJVpb2gi30tgBw=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.45</title>
             <pubDate>Wed, 10 Jun 2026 04:50:53 +0000</pubDate>
             <sparkle:version>2.7.45</sparkle:version>
