@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.48</title>
+            <pubDate>Sat, 01 Aug 2026 05:49:35 +0000</pubDate>
+            <sparkle:version>2.7.48</sparkle:version>
+            <sparkle:shortVersionString>2.7.48</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.48</h2>
+                <ul>
+                    <li>Menu bar mode: close hides the window and the menu bar icon toggles it. Rolling 4-week scheduling calendar. Speed Mode website blocking on Mac. Fixes duplicate window on Dock reopen and sidebar scrollbar flash.</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.48</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.48/Speed.app.zip"
+                sparkle:version="2.7.48"
+                sparkle:shortVersionString="2.7.48"
+                length="6617464"
+                type="application/octet-stream"
+                sparkle:edSignature="MyGpfc+0/117RBUZWXX3DEV7STKwuH7cl3ia//M2fD8+x6pd1tEtd2PWS8/q02z9n1wjwz9Wd+VhJqsP/4a/DA=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.47</title>
             <pubDate>Sat, 18 Jul 2026 15:49:29 +0000</pubDate>
             <sparkle:version>2.7.47</sparkle:version>
