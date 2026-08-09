@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.49</title>
+            <pubDate>Sun, 09 Aug 2026 15:09:37 +0000</pubDate>
+            <sparkle:version>2.7.49</sparkle:version>
+            <sparkle:shortVersionString>2.7.49</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.49</h2>
+                <ul>
+                    <li>Drag a task to the top or bottom edge of the list to auto-scroll</li>\n                    <li>Two-finger scrolling now works while dragging a task</li>\n                    <li>Fixed dropping tasks onto a scrolled list in the drawer</li>\n                    <li>Fixed drag gesture conflicts on iOS</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.49</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.49/Speed.app.zip"
+                sparkle:version="2.7.49"
+                sparkle:shortVersionString="2.7.49"
+                length="6629181"
+                type="application/octet-stream"
+                sparkle:edSignature="HMXHeOqval0h82uXfUzMQBaxb2WqGLUbAJYWZvf6po54AbkpZ0F1qezNVa0+XhEHDNTTq+s4B62Dnw8c70/AAw=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.48</title>
             <pubDate>Sat, 01 Aug 2026 05:49:35 +0000</pubDate>
             <sparkle:version>2.7.48</sparkle:version>
