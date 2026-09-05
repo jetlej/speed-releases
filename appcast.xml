@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.50</title>
+            <pubDate>Sat, 05 Sep 2026 16:27:53 +0000</pubDate>
+            <sparkle:version>2.7.50</sparkle:version>
+            <sparkle:shortVersionString>2.7.50</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.50</h2>
+                <ul>
+                    <li>Much faster long lists: scrolling and dragging no longer rebuild every row. Deleting, undo and redo now animate.</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.50</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.50/Speed.app.zip"
+                sparkle:version="2.7.50"
+                sparkle:shortVersionString="2.7.50"
+                length="6646433"
+                type="application/octet-stream"
+                sparkle:edSignature="wA3DaZEVBSGN8iZQ+D+YcXBJzqcgzJ1kjsLZUSGtCWadk914n8g8m5Iapzdq3Zz8dE9ue+rQiok5/hA1s92/Bg=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.49</title>
             <pubDate>Sun, 09 Aug 2026 15:09:37 +0000</pubDate>
             <sparkle:version>2.7.49</sparkle:version>
