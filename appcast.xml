@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.51</title>
+            <pubDate>Fri, 18 Sep 2026 15:04:49 +0000</pubDate>
+            <sparkle:version>2.7.51</sparkle:version>
+            <sparkle:shortVersionString>2.7.51</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.51</h2>
+                <ul>
+                    <li>Two-way Linear sync: issues assigned to you sync into a Linear list, with edits, completion, priority, and due dates flowing both ways. iOS settings gain an Integrations tab.</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.51</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.51/Speed.app.zip"
+                sparkle:version="2.7.51"
+                sparkle:shortVersionString="2.7.51"
+                length="6702521"
+                type="application/octet-stream"
+                sparkle:edSignature="+G9tutwV4a00rnXCVfgFOisOy14w+nCKb2Wc9uyUFVBCNbGHng7EmcKX8zZxbntQjqfHWcbW4MO4lGfNM1gQAw=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.50</title>
             <pubDate>Sat, 05 Sep 2026 16:27:53 +0000</pubDate>
             <sparkle:version>2.7.50</sparkle:version>
