@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.52</title>
+            <pubDate>Sun, 20 Sep 2026 17:27:25 +0000</pubDate>
+            <sparkle:version>2.7.52</sparkle:version>
+            <sparkle:shortVersionString>2.7.52</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.52</h2>
+                <ul>
+                    <li>Waiting list: a new place for tasks you've handed off, with Linear In Review syncing into it and back to Today when work returns. Linear statuses now map both ways with a setting for when issues are marked Started. Linear changes now arrive while Speed is in the background.</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.52</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.52/Speed.app.zip"
+                sparkle:version="2.7.52"
+                sparkle:shortVersionString="2.7.52"
+                length="6735624"
+                type="application/octet-stream"
+                sparkle:edSignature="0JnRdkuLztGSUnOG0Y/6lgbcWVUo9YS9y+gp83z7dkci0NGs7K69Y5laJllojjAcypkWV8UJS2c4EepcmxQpBQ=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.51</title>
             <pubDate>Fri, 18 Sep 2026 15:04:49 +0000</pubDate>
             <sparkle:version>2.7.51</sparkle:version>
