@@ -1,0 +1,12 @@
+{
+  "openai": {
+    "fast": { "id": "gpt-6-luna", "name": "GPT-6 Luna" },
+    "balanced": { "id": "gpt-6-sol", "name": "GPT-6 Sol" },
+    "best": { "id": "gpt-6-astra", "name": "GPT-6 Astra" }
+  },
+  "claude": {
+    "haiku": { "id": "claude-haiku-4-5", "name": "Haiku 4.5", "supportsEffort": false },
+    "sonnet": { "id": "claude-sonnet-5", "name": "Sonnet 5", "supportsEffort": true },
+    "opus": { "id": "claude-opus-5", "name": "Opus 5", "supportsEffort": true }
+  }
+}
