@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.53</title>
+            <pubDate>Wed, 21 Oct 2026 11:58:32 +0000</pubDate>
+            <sparkle:version>2.7.53</sparkle:version>
+            <sparkle:shortVersionString>2.7.53</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.53</h2>
+                <ul>
+                    <li>Fixed the new task form keeping the previous task's text when opened rapid-fire</li>\n                    <li>Improved Speed AI reliability and model selection</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.53</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.53/Speed.app.zip"
+                sparkle:version="2.7.53"
+                sparkle:shortVersionString="2.7.53"
+                length="6736587"
+                type="application/octet-stream"
+                sparkle:edSignature="1pFaM1eEhljib/lfIN0vV0lz+NZc0v67+LF5JWJHuPWGJw//cVvUOjXa29uHmRU3UHIa/4a79TVlKGjbtvqtAw=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.52</title>
             <pubDate>Sun, 20 Sep 2026 17:27:25 +0000</pubDate>
             <sparkle:version>2.7.52</sparkle:version>
