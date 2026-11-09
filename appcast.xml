@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.55</title>
+            <pubDate>Mon, 09 Nov 2026 21:02:08 +0000</pubDate>
+            <sparkle:version>2.7.55</sparkle:version>
+            <sparkle:shortVersionString>2.7.55</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.55</h2>
+                <ul>
+                    <li>Cmd+N reliably opens the new task form again</li>\n                    <li>on the Recurring view it opens the new recurring task form. Adds a Send to Agent toggle to Quick Add and the add form, and shows your MCP URL in Settings.</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.55</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.55/Speed.app.zip"
+                sparkle:version="2.7.55"
+                sparkle:shortVersionString="2.7.55"
+                length="6796732"
+                type="application/octet-stream"
+                sparkle:edSignature="rXw58Jp9G831bk5A3zIH2SvbIkx4EltOlHs2wOkHBIdCgxUzQ2lYn3EB/uNi4TbeJFpWXPGe8qaGlzdw+XLNBg=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.54</title>
             <pubDate>Mon, 09 Nov 2026 19:50:10 +0000</pubDate>
             <sparkle:version>2.7.54</sparkle:version>
