@@ -3,6 +3,26 @@
     <channel>
         <title>Speed Updates</title>
         <item>
+            <title>Version 2.7.54</title>
+            <pubDate>Mon, 09 Nov 2026 19:50:10 +0000</pubDate>
+            <sparkle:version>2.7.54</sparkle:version>
+            <sparkle:shortVersionString>2.7.54</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h2>Version 2.7.54</h2>
+                <ul>
+                    <li>Connect Speed to Claude with the new MCP server, and send new tasks straight to your agent from the add form.</li>\n                </ul>
+            ]]></description>
+            <link>https://github.com/jetlej/speed-releases/releases/tag/v2.7.54</link>
+            <enclosure
+                url="https://github.com/jetlej/speed-releases/releases/download/v2.7.54/Speed.app.zip"
+                sparkle:version="2.7.54"
+                sparkle:shortVersionString="2.7.54"
+                length="6796743"
+                type="application/octet-stream"
+                sparkle:edSignature="QdLXcRAMAJOKo0zBWULIFjF8+Om8+nn3FqUNKpFWh3dMIiT/jCmrfMAwbyAKAXaSI2oecRmkO8YPaUO62aysDg=="
+            />
+        </item>
+        <item>
             <title>Version 2.7.53</title>
             <pubDate>Wed, 21 Oct 2026 11:58:32 +0000</pubDate>
             <sparkle:version>2.7.53</sparkle:version>
